@@ -18,7 +18,7 @@ public class MyWorld extends World
         // Create a new world with 600x400 cells with a cell size of 1x1 pixels.
     
         super(900, 600, 1); 
-        setBackground("download.png");
+        setBackground("download_900x600.png");
         Ball ball = new Ball();
         addObject(ball, getWidth()/2, getHeight()/2);
         
