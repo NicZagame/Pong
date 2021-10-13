@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Counter
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Scoreboard\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Call\ any\ method\ in\ it\r\n
+comment2.params=
+comment2.target=Counter()
+comment2.text=\r\n\ Create\ a\ new\ counter,\ initialised\ to\ 0.\r\n
+comment3.params=
+comment3.target=void\ addScore()
+comment3.text=\r\n\ Adds\ Score\ \r\n
+comment4.params=
+comment4.target=void\ update()
+comment4.text=\r\n\ Changes\ image\ when\ Score\ is\ added\r\n
+numComments=5
